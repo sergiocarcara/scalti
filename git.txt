@@ -1,0 +1,6 @@
+adicionar alteraçoes
+git add *
+git commit -m "comentários das alterações"
+
+enviando para o repositorio
+git push origin master
